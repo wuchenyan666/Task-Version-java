@@ -1,0 +1,8 @@
+该package负责解析数学表达式的字符串，并计算得出结果
+
+
+GetAdd类：传入 String类型符号和其左右的两个String类型的数，计算得出结果后以String类型返回
+
+GetCount类： 对外返回正确的结果
+
+MathStack类： 计算数表达式 数组的计算值并返回
